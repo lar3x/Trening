@@ -1,0 +1,10 @@
+# Ni del aplikacije: osnutki videza in zapiski za razvoj (osebno)
+osnutki/
+CLAUDE.md
+
+# Windows / macOS navlaka
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
+.impeccable/
